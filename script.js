@@ -1,5 +1,5 @@
 function getWeather() {
-    const apiKey = '85a6183c595273e2b26799279143cc50';
+    const apiKey = '27606596694f496cbbbd454a8f3d3b81';
     const city = document.getElementById('city').value;
 
     if (!city) {
